@@ -40,7 +40,8 @@ void main() /** Entry point for the application */
 		}
 
 		window.clear(sf::Color(120,120,120));
-
+		
+		//window.draw();
 
 		window.display();
 	}
